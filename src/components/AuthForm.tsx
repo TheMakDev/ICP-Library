@@ -61,7 +61,7 @@ const AuthForm: React.FC = () => {
             <img src={logo} alt="ICP Library Logo" className="h-12 w-12 sm:h-12 sm:w-12" />
           </div>
           <h1 className="text-2xl sm:text-3xl font-bold text-green-800">ICP Library</h1>
-          <p className="text-green-600 mt-2 text-sm sm:text-base">Computer Science Department</p>
+          <p className="text-green-600 mt-2 text-sm sm:text-base">Oladipo Nathaniel Liberary</p>
           <p className="text-xs sm:text-sm text-green-500">Ibadan City Polytechnic</p>
         </div>
 
